@@ -31,6 +31,8 @@ public class MainSteps {
 	@Given("User is on Practice landing page")
 	public void user_is_on_practice_landing_page() {
 	    System.out.println("User is on Practice landing page");
+	    System.out.println("Line1Y");
+	    System.out.println("Line2Y");
 	}
 
 	
