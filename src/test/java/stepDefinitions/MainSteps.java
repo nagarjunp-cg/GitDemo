@@ -33,6 +33,10 @@ public class MainSteps {
 	    System.out.println("User is on Practice landing page");
 	    System.out.println("Line1Y");
 	    System.out.println("Line2Y");
+	    System.out.println("Line3x");
+	    System.out.println("Line4x");
+	    System.out.println("Line5x");
+	    
 	}
 
 	
