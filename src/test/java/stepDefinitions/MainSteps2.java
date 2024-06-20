@@ -23,6 +23,10 @@ public class MainSteps2 {
 		System.out.println("step3");
 	}
 
+public void mainsteps2method4() {
+		
+		System.out.println("step4");
+	}
 	
 	
 	
