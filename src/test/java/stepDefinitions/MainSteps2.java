@@ -29,4 +29,10 @@ public class MainSteps2 {
 		System.out.println("step5 added by Asian TimeZoneguy develop");
 	}
 	
+	public void mainsteps2method6() {
+
+		System.out.println("step5 added by American TimeZoneguy develop");
+	}
+	
+	
 }
